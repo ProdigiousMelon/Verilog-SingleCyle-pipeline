@@ -1,0 +1,32 @@
+C:\Users\Thelag\Documents\School\EE-480\Lab3>iverilog -o proc single_cycle.v
+single_cycle.v:112: syntax error
+single_cycle.v:114: Syntax in assignment statement l-value.
+single_cycle.v:115: syntax error
+single_cycle.v:115: error: invalid module item.
+single_cycle.v:115: syntax error
+single_cycle.v:116: error: invalid module item.
+single_cycle.v:116: syntax error
+single_cycle.v:117: error: invalid module item.
+single_cycle.v:117: syntax error
+single_cycle.v:118: error: invalid module item.
+single_cycle.v:118: syntax error
+single_cycle.v:119: error: invalid module item.
+single_cycle.v:119: syntax error
+single_cycle.v:120: error: invalid module item.
+single_cycle.v:120: syntax error
+single_cycle.v:120: error: Invalid module instantiation
+single_cycle.v:121: error: invalid module item.
+single_cycle.v:121: syntax error
+single_cycle.v:122: error: invalid module item.
+single_cycle.v:122: syntax error
+single_cycle.v:123: error: invalid module item.
+single_cycle.v:123: syntax error
+single_cycle.v:124: error: invalid module item.
+single_cycle.v:124: syntax error
+single_cycle.v:125: error: invalid module item.
+single_cycle.v:125: syntax error
+single_cycle.v:127: error: invalid module item.
+single_cycle.v:128: syntax error
+single_cycle.v:134: error: invalid module item.
+single_cycle.v:137: error: port clk already has a port declaration.
+single_cycle.v:43: error: Port ``clk'' has already been declared a port.
